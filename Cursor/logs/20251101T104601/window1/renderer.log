@@ -1,0 +1,134 @@
+2025-11-01 10:46:03.200 [warning] Missing property "rpcFileLoggerFolder" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-11-01 10:46:03.208 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-01 10:46:03.208 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-copilot-data-analysis' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-01 10:46:03.209 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-01 10:46:03.209 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-01 10:46:03.209 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-01 10:46:03.210 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-01 10:46:03.210 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-01 10:46:03.210 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-01 10:46:03.211 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-01 10:46:04.027 [info] Started local extension host with pid 5202.
+2025-11-01 10:46:05.147 [warning] No search provider registered for scheme: file, waiting
+2025-11-01 10:46:05.988 [info] [LocalProcessExtensionHost] getDefaultShell result: /usr/bin/zsh
+2025-11-01 10:46:05.989 [info] [LocalProcessExtensionHost] Final userTerminalHint: /usr/bin/zsh
+2025-11-01 10:46:06.355 [info] [Debug] Registered command palette action: debug.getApplicationProperty
+2025-11-01 10:46:06.356 [info] [Debug] Registered command palette action: debug.logComposer
+2025-11-01 10:46:06.356 [info] [Debug] Registered command palette action: debug.getContextKeyValue
+2025-11-01 10:46:06.618 [info] [Cursor Proclist Polling] Feature disabled by config
+2025-11-01 10:46:07.459 [info] [perf] Render performance baseline is 38ms
+2025-11-01 10:46:08.379 [info] [ShellExec] Created session 044a13a2-fafd-4956-b463-1eb0aa8560e8 on LocalProcess host
+2025-11-01 10:46:09.117 [error] [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh: ConnectError: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7337:400502)
+    at async Object.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:587:348407)
+    at async qdo.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9773:35106)
+    at async qdo.refreshMembership (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9773:23037) [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:46:09.155 [error] [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh: ConnectError: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7337:400502)
+    at async Object.availableModels (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:587:348407)
+    at async avo.keepCppModelStateUpdated (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9889:16023)
+    at async avo.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9897:1259) [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:46:09.585 [error] [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh: ConnectError: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7337:400502)
+    at async Object.availableDocs (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:587:348407)
+    at async Uzr.availableDocs (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7955:4894)
+    at async Object.fn (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7025:95215) [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:46:09.587 [error] Error fetching user privacy mode: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:46:09.588 [error] [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh: ConnectError: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7337:400502)
+    at async Object.getDefaultModelNudgeData (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:587:348407)
+    at async Uzr.performDefaultModelRequest (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7955:7722) [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:46:09.589 [error] [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh: ConnectError: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7337:400502)
+    at async Object.availableDocs (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:587:348407)
+    at async Uzr.availableDocs (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7955:4894)
+    at async vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9919:70562 [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:46:09.590 [error] [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh: ConnectError: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7337:400502)
+    at async Object.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:587:348407)
+    at async qdo.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9773:35106)
+    at async qdo.refreshMembership (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9773:23037)
+    at async qdo.refreshAuthentication (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9773:40605) [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:46:09.591 [error] [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh: ConnectError: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7337:400502)
+    at async Object.getUserPrivacyMode (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:587:348407)
+    at async qdo.fetchUserPrivacyMode (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9773:11636)
+    at async qdo.refreshPrivacyMode (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9773:11295) [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:46:09.934 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:46:11.993 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:46:30.285 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:46:32.891 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:46:39.306 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:46:41.896 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:46:43.610 [error] An unknown error occurred. Please consult the log for more details. {}
+2025-11-01 10:46:44.648 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:46:45.842 [error] An unknown error occurred. Please consult the log for more details. {}
+2025-11-01 10:46:51.065 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:46:53.896 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:46:59.657 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:47:06.113 [error] [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh: ConnectError: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7337:400502)
+    at async Object.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:587:348407)
+    at async qdo.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9773:35106)
+    at async qdo.refreshMembership (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9773:23037) [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:47:07.132 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:47:08.930 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:47:15.355 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:47:17.933 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:47:28.544 [error] [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh: ConnectError: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7337:400502)
+    at async Object.availableModels (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:587:348407)
+    at async avo.keepCppModelStateUpdated (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9889:16023)
+    at async avo.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9897:1259)
+    at async avo.fastPeriodicallyReloadCppConfig (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9897:981) [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:47:28.590 [error] An unknown error occurred. Please consult the log for more details. {}
+2025-11-01 10:47:29.624 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:47:31.535 [error] An unknown error occurred. Please consult the log for more details. {}
+2025-11-01 10:47:43.420 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:47:44.942 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:48:03.587 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:48:05.950 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:48:06.125 [error] [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh: ConnectError: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7337:400502)
+    at async Object.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:587:348407)
+    at async qdo.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9773:35106)
+    at async qdo.refreshMembership (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9773:23037) [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:48:12.635 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:48:14.956 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:48:24.660 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:48:26.962 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:48:48.697 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:48:50.973 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:49:06.114 [error] [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh: ConnectError: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7337:400502)
+    at async Object.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:587:348407)
+    at async qdo.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9773:35106)
+    at async qdo.refreshMembership (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9773:23037) [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:49:07.179 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:49:08.979 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:49:24.286 [error] [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh: ConnectError: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7337:400502)
+    at async Object.availableModels (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:587:348407)
+    at async avo.keepCppModelStateUpdated (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9889:16023)
+    at async avo.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9897:1259)
+    at async avo.fastPeriodicallyReloadCppConfig (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9897:981) [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:49:24.329 [error] An unknown error occurred. Please consult the log for more details. {}
+2025-11-01 10:49:25.361 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:49:26.985 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:49:36.501 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:49:38.991 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:49:43.561 [error] An unknown error occurred. Please consult the log for more details. {}
+2025-11-01 10:49:44.616 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:49:54.551 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:49:57.013 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:50:04.361 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:50:06.018 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:50:06.110 [error] [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh: ConnectError: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7337:400502)
+    at async Object.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:587:348407)
+    at async qdo.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9773:35106)
+    at async qdo.refreshMembership (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9773:23037) [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:50:12.895 [error] An unknown error occurred. Please consult the log for more details. {}
+2025-11-01 10:50:13.942 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:50:15.021 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-11-01 10:50:26.042 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}

@@ -1,0 +1,4 @@
+2025-11-01 10:51:32.885 [info] CURSOR LOG: Finished creating provider!
+2025-11-01 10:51:33.786 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:51:54.051 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:52:03.194 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh

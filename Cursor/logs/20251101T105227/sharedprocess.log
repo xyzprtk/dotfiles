@@ -1,0 +1,2 @@
+2025-11-01 10:52:31.810 [info] Getting extensions control
+2025-11-01 10:52:32.928 [error] Error getting extensions control manifest net::ERR_INTERNET_DISCONNECTED

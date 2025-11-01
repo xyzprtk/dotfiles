@@ -31,3 +31,4 @@ Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
 2025-11-01 10:02:24.712 [info] > git config --global user.name [2ms]
 2025-11-01 10:02:24.731 [info] > git config --global user.email [2ms]
 2025-11-01 10:02:24.731 [info] [main] Stored git author name in global state:  <>
+2025-11-01 10:07:10.396 [info] > git rev-parse --show-toplevel [1ms]

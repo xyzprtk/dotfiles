@@ -1,0 +1,181 @@
+2025-11-01 10:52:35.551 [info] CURSOR LOG: Finished creating provider!
+2025-11-01 10:52:36.630 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:52:56.847 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:52:59.683 [info] CURSOR LOG: requestId c5847cb5-e811-4f83-b476-66b4da937d92  
+2025-11-01 10:52:59.799 [info] CURSOR LOG: requestId 7bca0ad9-2900-4af3-ab07-1d7a31521089  
+2025-11-01 10:52:59.887 [info] CURSOR LOG: requestId b68a3431-6217-4ab6-8f51-8d08ddb88409  
+2025-11-01 10:53:00.276 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:00.277 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:00.278 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:00.328 [info] CURSOR LOG: requestId 04f54b4d-908a-4bdf-a559-b41bd6db5ff7  
+2025-11-01 10:53:00.575 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:00.627 [info] CURSOR LOG: requestId 444a63b1-2f57-4e28-8276-0e00cbe7b30d  
+2025-11-01 10:53:00.722 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:00.774 [info] CURSOR LOG: requestId 24e7ce81-7962-4445-a27f-81e0848977ca  
+2025-11-01 10:53:00.851 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:00.902 [info] CURSOR LOG: requestId 36ec8cbf-ec85-49e2-8757-01a7b649bd52  
+2025-11-01 10:53:01.000 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:01.051 [info] CURSOR LOG: requestId 7d3c6891-06ad-4a51-8d15-3a690c9655d2  
+2025-11-01 10:53:01.146 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:01.198 [info] CURSOR LOG: requestId ced9a55e-102d-4e11-82e4-c20cf8f9850c  
+2025-11-01 10:53:05.128 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:05.129 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:53:05.355 [info] CURSOR LOG: requestId 53f3861f-d427-4fda-93da-030937167bec  
+2025-11-01 10:53:06.948 [info] CURSOR LOG: requestId 4a4f1e6a-ab1b-47d1-996f-d21648dd23df  
+2025-11-01 10:53:08.444 [info] CURSOR LOG: requestId 724e13ca-6a90-41c9-b241-85be64882b15  
+2025-11-01 10:53:09.891 [info] CURSOR LOG: requestId 1dfcddc0-dec8-405b-a349-51f3714dce3d  
+2025-11-01 10:53:11.607 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:11.608 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:11.609 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:11.610 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:53:11.660 [info] CURSOR LOG: requestId a33adaf8-b50f-4eaa-aa5b-3dceee7565b4  
+2025-11-01 10:53:13.066 [info] CURSOR LOG: requestId 8e65db8e-fcdf-451f-91ef-158f14293e6a  
+2025-11-01 10:53:15.384 [info] CURSOR LOG: Error in streaming cpp (connect error) [unknown] Network disconnected
+2025-11-01 10:53:15.598 [info] CURSOR LOG: requestId 910dd8cb-8d80-4f54-b9d4-700995efb350  
+2025-11-01 10:53:15.678 [info] CURSOR LOG: requestId 03bbdfff-631b-45d9-bbff-c6c40ce84cf8  
+2025-11-01 10:53:15.799 [info] CURSOR LOG: requestId 1c7355f5-de5a-4845-9dea-81cfaadec8f9  
+2025-11-01 10:53:16.999 [info] CURSOR LOG: requestId c0140798-c5c6-4bd7-8dac-e65428ec8f9e  
+2025-11-01 10:53:17.026 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:53:17.050 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:17.081 [info] CURSOR LOG: requestId 9ae21916-33f3-4d22-8961-e4847a2b09b1  
+2025-11-01 10:53:19.799 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:19.799 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:19.800 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:19.800 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:19.801 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:19.801 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:19.851 [info] CURSOR LOG: requestId 58a6be79-d8ae-419d-89cb-4e9a4d5ff0ee  
+2025-11-01 10:53:19.963 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:20.014 [info] CURSOR LOG: requestId 2f9f1b6d-f72e-4e05-8e4f-f5164a319fcd  
+2025-11-01 10:53:20.150 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:20.201 [info] CURSOR LOG: requestId cdcc76a7-c018-46b6-872a-a33670ee3b80  
+2025-11-01 10:53:20.346 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:20.397 [info] CURSOR LOG: requestId fd42f61c-46af-4b3b-8d7e-1eb5f3fa55a8  
+2025-11-01 10:53:20.634 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:20.685 [info] CURSOR LOG: requestId ca5e2aad-25a8-492b-a9c5-4ba0245a66be  
+2025-11-01 10:53:21.062 [info] CURSOR LOG: requestId ad760f75-6470-4075-a6c6-569d591b1419  
+2025-11-01 10:53:21.286 [info] CURSOR LOG: requestId 4bef780d-d169-4d5c-8c9c-29410499eda7  
+2025-11-01 10:53:21.405 [info] CURSOR LOG: requestId defa1942-affe-4d40-8d52-8e2b4780b007  
+2025-11-01 10:53:21.897 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:21.898 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:21.898 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:21.899 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:21.950 [info] CURSOR LOG: requestId 7b4fcd07-613e-4c58-820f-1ce6b05bdc43  
+2025-11-01 10:53:24.596 [info] CURSOR LOG: requestId 58fa2f2d-9e86-4750-ae4c-940a80cd6a1f  
+2025-11-01 10:53:24.626 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:53:28.785 [info] CURSOR LOG: requestId e089b3d1-75cd-4cdc-8d11-388baec3d171  
+2025-11-01 10:53:29.422 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:29.422 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:29.423 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:29.495 [info] CURSOR LOG: requestId 169d5962-ae2f-4001-b9ac-c5c23115c0e6  
+2025-11-01 10:53:29.739 [info] CURSOR LOG: requestId f57a9bd3-6ad2-438f-a6a2-519d6257c54b  
+2025-11-01 10:53:29.771 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:53:31.811 [info] CURSOR LOG: requestId 07f7617d-01cb-4f8f-bff0-66361ee2f2a9  
+2025-11-01 10:53:32.454 [info] CURSOR LOG: requestId cb3bcfec-d85d-4760-af13-99375fb13be0  
+2025-11-01 10:53:32.567 [info] CURSOR LOG: requestId 377906d6-8b67-40c6-a55b-62fd970bd1dc  
+2025-11-01 10:53:32.734 [info] CURSOR LOG: requestId 6608d88b-a503-4adf-befa-7fa9192bbfb0  
+2025-11-01 10:53:32.777 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:32.816 [info] CURSOR LOG: requestId d2eba1e3-0768-4953-a77f-5c1735cb3476  
+2025-11-01 10:53:36.712 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:36.713 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:53:36.747 [info] CURSOR LOG: requestId 9a0591b6-9a6b-4fe1-949b-a0ab6e3071ba  
+2025-11-01 10:53:39.567 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:39.602 [info] CURSOR LOG: requestId 3c3cb95d-cc90-4982-8bf5-ebce9890dfef  
+2025-11-01 10:53:41.983 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:53:42.459 [info] CURSOR LOG: Error in streaming cpp (connect error) [unknown] Network disconnected
+2025-11-01 10:53:42.571 [info] CURSOR LOG: Error in streaming cpp (connect error) [unknown] Network disconnected
+2025-11-01 10:53:42.737 [info] CURSOR LOG: Error in streaming cpp (connect error) [unknown] Network disconnected
+2025-11-01 10:53:42.820 [info] CURSOR LOG: Error in streaming cpp (connect error) [unknown] Network disconnected
+2025-11-01 10:53:45.490 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:45.491 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:53:45.724 [info] CURSOR LOG: requestId fc7bc6b6-d9ec-4ae5-aec6-36751f856c9c  
+2025-11-01 10:53:53.951 [info] CURSOR LOG: requestId a06e7537-f523-4e11-bc9e-fef89edc84fa  
+2025-11-01 10:53:54.084 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:53:55.732 [info] CURSOR LOG: Error in streaming cpp (connect error) [unknown] Network disconnected
+2025-11-01 10:54:04.083 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:54:04.084 [info] CURSOR LOG: Error in streaming cpp (connect error) [unknown] Network disconnected
+2025-11-01 10:54:10.620 [info] CURSOR LOG: requestId 912924aa-33e0-4eaf-876b-5ce943f38e59  
+2025-11-01 10:54:10.716 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:54:20.812 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:54:20.814 [info] CURSOR LOG: Error in streaming cpp (connect error) [unknown] Network disconnected
+2025-11-01 10:54:26.507 [info] CURSOR LOG: requestId 29a51697-2cb7-4240-b1ab-5d31c9646a82  
+2025-11-01 10:54:26.569 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:54:27.882 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:54:28.453 [info] CURSOR LOG: requestId 568fc250-a2a2-4f67-b823-f9ee12589428  
+2025-11-01 10:54:28.712 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:54:28.763 [info] CURSOR LOG: requestId 4f823cfe-adbb-49de-b657-a56cc9d30393  
+2025-11-01 10:54:29.054 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:54:29.108 [info] CURSOR LOG: requestId bd2cf4f1-8490-4838-9909-4c18f553520a  
+2025-11-01 10:54:31.591 [info] CURSOR LOG: requestId b79d8048-ad70-472d-80e1-8e2a3cdc3ff7  
+2025-11-01 10:54:31.640 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:54:31.845 [info] CURSOR LOG: requestId c5fe5910-7b3e-44bf-9597-343383d0e14b  
+2025-11-01 10:54:31.986 [info] CURSOR LOG: requestId 803f5d39-147a-4538-b933-be3e6832977d  
+2025-11-01 10:54:32.129 [info] CURSOR LOG: requestId 631b58e3-aa94-42b0-b077-519fc9fbfac3  
+2025-11-01 10:54:32.267 [info] CURSOR LOG: requestId 3352f4bf-4f28-49b8-92f1-bd46ff4f49ba  
+2025-11-01 10:54:32.366 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:54:32.432 [info] CURSOR LOG: requestId ddc3cdfa-c41c-4b46-b323-f72c4e3e4464  
+2025-11-01 10:54:32.511 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:54:32.565 [info] CURSOR LOG: requestId ef81c519-0725-40fb-832b-2d2365edc4de  
+2025-11-01 10:54:34.054 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:54:34.054 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:54:34.055 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:54:34.057 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:54:34.057 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:54:34.058 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:54:34.361 [info] CURSOR LOG: requestId f239044f-bce5-4cfc-b487-8079982a7a58  
+2025-11-01 10:54:34.494 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:54:34.545 [info] CURSOR LOG: requestId 30c9a44e-cf39-495e-9cad-78ed3d342512  
+2025-11-01 10:54:34.718 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:54:34.772 [info] CURSOR LOG: requestId 1474b54d-a3f9-4159-bfbe-1cf6610cecec  
+2025-11-01 10:54:44.780 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:54:44.781 [info] CURSOR LOG: Error in streaming cpp (connect error) [unknown] Network disconnected
+2025-11-01 10:54:45.117 [info] CURSOR LOG: requestId 715a12b8-82a9-4708-a720-1e3d568e084f  
+2025-11-01 10:54:45.368 [info] CURSOR LOG: requestId b5d3ce3e-ef34-46c8-9043-3113641deec0  
+2025-11-01 10:54:45.604 [info] CURSOR LOG: requestId b5d413aa-4124-419b-aabc-b95e3d939faf  
+2025-11-01 10:54:47.510 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:54:47.511 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:54:47.512 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:54:47.837 [info] CURSOR LOG: requestId 04f39b07-8e1c-43ec-87a9-7a763795cd22  
+2025-11-01 10:54:48.021 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:54:48.073 [info] CURSOR LOG: requestId e9776d12-5948-4a71-98f5-d27be080403d  
+2025-11-01 10:54:48.249 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:54:48.302 [info] CURSOR LOG: requestId ebd44585-7d46-4b7f-8f00-3732a18e5409  
+2025-11-01 10:54:49.632 [info] CURSOR LOG: requestId d38b0849-0c02-4e53-9eee-ae6d3f80ec26  
+2025-11-01 10:54:49.835 [info] CURSOR LOG: requestId dfa2f379-f09e-4ba7-b8ef-5bd84cb15206  
+2025-11-01 10:54:49.863 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:54:50.016 [info] CURSOR LOG: requestId 9bc7fea9-884d-4b07-a7f4-1c4e84f5168b  
+2025-11-01 10:54:50.668 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:54:50.669 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:54:50.669 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:54:50.670 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:54:50.720 [info] CURSOR LOG: requestId 132dd0b2-97c1-4c5e-81d3-533dd7a1080a  
+2025-11-01 10:54:54.614 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:55:06.224 [info] CURSOR LOG: requestId 6f2156a8-10cb-4d96-a3c3-a6d3cc6d2a1b  
+2025-11-01 10:55:06.261 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:55:16.234 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:55:16.235 [info] CURSOR LOG: Error in streaming cpp (connect error) [unknown] Network disconnected
+2025-11-01 10:55:32.386 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:55:46.302 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:55:46.309 [info] CURSOR LOG: requestId a8778276-add1-4e5c-8316-2308113309c4  
+2025-11-01 10:55:48.126 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:55:48.181 [info] CURSOR LOG: requestId 781a1586-6140-4744-81a5-d6a9be990443  
+2025-11-01 10:55:48.264 [info] CURSOR LOG: requestId 1cfa8da5-c7be-4089-a7f5-806067996f32  
+2025-11-01 10:55:49.244 [info] CURSOR LOG: requestId a06aa6e7-3eb9-4440-966f-d0a0b426555d  
+2025-11-01 10:55:49.485 [info] CURSOR LOG: requestId 147eb285-7b43-43b0-b7d3-6dcace12ba3e  
+2025-11-01 10:55:50.165 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:55:50.166 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:55:50.167 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:55:50.167 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:55:50.217 [info] CURSOR LOG: requestId f8656472-2b70-4011-b889-638e5583439c  
+2025-11-01 10:55:50.359 [info] CURSOR LOG: requestId 91436f83-8f96-473a-9ca9-d0d9ed723dc8  
+2025-11-01 10:55:52.347 [info] CURSOR LOG: requestId 408a5add-87dd-4c1b-b639-ec5fe9f22c3e  
+2025-11-01 10:55:52.374 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:55:54.209 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:55:54.210 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:55:54.211 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 10:56:12.422 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:56:21.473 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:56:32.393 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:56:57.528 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:57:17.579 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 10:57:26.632 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh

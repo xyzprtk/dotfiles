@@ -1,0 +1,80 @@
+2025-11-01 10:51:32.971 [info] [main] Log level: Info
+2025-11-01 10:51:32.971 [info] [main] Validating found git in: "git"
+2025-11-01 10:51:32.971 [info] [main] Using git "2.51.1" from "git"
+2025-11-01 10:51:32.971 [info] [Model][doInitialScan] Initial repository scan started
+2025-11-01 10:51:32.971 [info] > git rev-parse --show-toplevel [30ms]
+2025-11-01 10:51:32.971 [info] > git config --get remote.origin.url [15ms]
+2025-11-01 10:51:32.971 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [38ms]
+2025-11-01 10:51:32.971 [info] [Model][openRepository] Opened repository: /home/prtk/.config
+2025-11-01 10:51:32.971 [info] [Model][openRepository] Opened repository (kind): repository
+2025-11-01 10:51:32.979 [info] > git rev-parse --show-toplevel [20ms]
+2025-11-01 10:51:32.983 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-11-01 10:51:32.983 [info] > git config --get commit.template [41ms]
+2025-11-01 10:51:33.040 [info] > git rev-parse --show-toplevel [9ms]
+2025-11-01 10:51:33.049 [info] [Git][getRemotes] No remotes found in the git config file
+2025-11-01 10:51:33.065 [info] [Git][getRemotes] No remotes found in the git config file
+2025-11-01 10:51:33.091 [info] > git rev-parse --show-toplevel [4ms]
+2025-11-01 10:51:33.092 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [28ms]
+2025-11-01 10:51:33.139 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [12ms]
+2025-11-01 10:51:33.147 [info] > git status -z -uall [38ms]
+2025-11-01 10:51:33.198 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [25ms]
+2025-11-01 10:51:33.228 [info] > git config --get --local branch.master.vscode-merge-base [13ms]
+2025-11-01 10:51:33.229 [warning] [Git][config] git config failed: Failed to execute git
+2025-11-01 10:51:33.245 [info] > git config --get commit.template [48ms]
+2025-11-01 10:51:33.271 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [6ms]
+2025-11-01 10:51:33.271 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-11-01 10:51:33.271 [info] > git reflog master --grep-reflog=branch: Created from *. [27ms]
+2025-11-01 10:51:33.314 [info] [Git][getRemotes] No remotes found in the git config file
+2025-11-01 10:51:33.340 [info] > git rev-parse --verify origin/main [8ms]
+2025-11-01 10:51:33.340 [info] fatal: Needed a single revision
+2025-11-01 10:51:33.355 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [42ms]
+2025-11-01 10:51:33.427 [info] > git status -z -uall [57ms]
+2025-11-01 10:51:33.427 [info] > git show --textconv :waybar/style.css [23ms]
+2025-11-01 10:51:33.427 [info] > git ls-files --stage -- waybar/style.css [7ms]
+2025-11-01 10:51:33.443 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [57ms]
+2025-11-01 10:51:33.448 [info] > git rev-parse --verify origin/master [93ms]
+2025-11-01 10:51:33.448 [info] fatal: Needed a single revision
+2025-11-01 10:51:33.465 [info] > git rev-parse --verify origin/develop [3ms]
+2025-11-01 10:51:33.465 [info] fatal: Needed a single revision
+2025-11-01 10:51:33.480 [info] > git cat-file -s e03103720241e23cbb47e48aeb997b925d62b6c4 [39ms]
+2025-11-01 10:51:33.487 [info] > git branch -r [8ms]
+2025-11-01 10:51:33.509 [info] > git config --get init.defaultBranch [5ms]
+2025-11-01 10:51:33.536 [info] > git remote get-url --push origin [4ms]
+2025-11-01 10:51:33.536 [info] error: No such remote 'origin'
+2025-11-01 10:51:33.792 [info] > git check-ignore -v -z --stdin [241ms]
+2025-11-01 10:51:33.968 [info] > git blame --root --incremental 3a46f66e0c4db1180cc1e39900dcbe2df349ce9e -- waybar/style.css [6ms]
+2025-11-01 10:51:33.984 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-01 10:51:37.161 [info] [Git][getRemotes] No remotes found in the git config file
+2025-11-01 10:51:37.179 [info] > git config --get commit.template [20ms]
+2025-11-01 10:51:37.180 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2025-11-01 10:51:37.217 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-11-01 10:51:37.233 [info] > git status -z -uall [36ms]
+2025-11-01 10:51:37.788 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-01 10:51:42.276 [info] > git config --get commit.template [4ms]
+2025-11-01 10:51:42.306 [info] [Git][getRemotes] No remotes found in the git config file
+2025-11-01 10:51:42.309 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2025-11-01 10:51:42.399 [info] > git status -z -uall [63ms]
+2025-11-01 10:51:42.399 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [32ms]
+2025-11-01 10:51:42.410 [info] > git config --global user.name [12ms]
+2025-11-01 10:51:42.438 [info] > git config --global user.email [3ms]
+2025-11-01 10:51:42.439 [info] [main] Stored git author name in global state: Pratheek Nistala <prtk2403@gmail.com>
+2025-11-01 10:51:49.154 [info] [Git][getRemotes] No remotes found in the git config file
+2025-11-01 10:51:49.156 [info] > git config --get commit.template [22ms]
+2025-11-01 10:51:49.156 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2025-11-01 10:51:49.201 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-11-01 10:51:49.215 [info] > git status -z -uall [38ms]
+2025-11-01 10:51:54.267 [info] [Git][getRemotes] No remotes found in the git config file
+2025-11-01 10:51:54.268 [info] > git config --get commit.template [22ms]
+2025-11-01 10:51:54.269 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2025-11-01 10:51:54.312 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-11-01 10:51:54.326 [info] > git status -z -uall [37ms]
+2025-11-01 10:51:59.379 [info] [Git][getRemotes] No remotes found in the git config file
+2025-11-01 10:51:59.380 [info] > git config --get commit.template [24ms]
+2025-11-01 10:51:59.382 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2025-11-01 10:51:59.426 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-11-01 10:51:59.440 [info] > git status -z -uall [37ms]
+2025-11-01 10:52:04.501 [info] [Git][getRemotes] No remotes found in the git config file
+2025-11-01 10:52:04.502 [info] > git config --get commit.template [29ms]
+2025-11-01 10:52:04.502 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2025-11-01 10:52:04.548 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-11-01 10:52:04.563 [info] > git status -z -uall [38ms]

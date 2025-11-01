@@ -63,3 +63,29 @@
 	at async b.startIndexingRepository (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:197285)
 2025-11-01 10:04:21.858 [error] Handshake failed.
 2025-11-01 10:04:21.858 [info] Indexing job successfully done or aborted.
+2025-11-01 10:07:27.548 [info] multiCodebaseIndexingJob dispose
+2025-11-01 10:07:27.548 [info] Aborting indexing job.
+2025-11-01 10:07:27.548 [info] Doing a startup handshake.
+2025-11-01 10:07:27.553 [info] Finished computing merkle tree in 2.1836370000382885 ms.
+2025-11-01 10:07:27.554 [info] Doing the initial handshake with hash: 840217f4a43c56e2e1da8ed8c4f7fa39107694a80b255ebc1861b624d5aff3bf
+2025-11-01 10:07:27.556 [info] Computed simhash vector of length: 256
+2025-11-01 10:07:27.556 [info] Path key hash: 81ff26319b0bb559d3d91761d983f412e81481b9a9734d1cedbdf9c4986a8941
+2025-11-01 10:07:27.556 [info] Handshake start
+2025-11-01 10:07:27.560 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN repo42.cursor.sh
+2025-11-01 10:07:27.561 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-11-01 10:07:27.561 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-11-01 10:07:29.563 [warning] Retrying handshake with timeout 4000. Error:  [unavailable] getaddrinfo EAI_AGAIN repo42.cursor.sh
+2025-11-01 10:07:29.563 [info] Handshake start
+2025-11-01 10:07:33.569 [warning] Retrying handshake with timeout 8000. Error:  [unavailable] getaddrinfo EAI_AGAIN repo42.cursor.sh
+2025-11-01 10:07:33.569 [info] Handshake start
+2025-11-01 10:07:33.574 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN repo42.cursor.sh
+2025-11-01 10:07:33.574 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-11-01 10:07:33.574 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-11-01 10:07:41.575 [warning] Retrying handshake with timeout 16000. Error:  [unavailable] getaddrinfo EAI_AGAIN repo42.cursor.sh
+2025-11-01 10:07:41.575 [info] Handshake start
+2025-11-01 10:07:41.580 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN repo42.cursor.sh
+2025-11-01 10:07:41.580 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-11-01 10:07:41.580 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-11-01 10:07:54.119 [info] multiCodebaseIndexingJob dispose
+2025-11-01 10:07:54.120 [info] Aborting indexing job.
+2025-11-01 10:07:54.122 [info] Indexing job successfully done or aborted.

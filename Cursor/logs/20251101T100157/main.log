@@ -29,3 +29,6 @@
     at SimpleURLLoaderWrapper.callbackTrampoline (node:internal/async_hooks:130:17)
 2025-11-01 10:02:27.385 [info] update#setState idle
 2025-11-01 10:03:12.269 [warning] TracingService: dropping unsupported envelope
+2025-11-01 10:07:54.113 [warning] [BrowserViewMainService] Cannot flush storage data: browser view not created for window 1
+2025-11-01 10:07:54.115 [warning] [BrowserViewMainService] Cannot set visibility: browser view not created for window 1
+2025-11-01 10:07:54.138 [info] Extension host with pid 115212 exited with code: 0, signal: unknown.

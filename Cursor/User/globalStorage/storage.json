@@ -10,11 +10,7 @@
                 "folderUri": "file:///home/prtk/.config/waybar"
             }
         ],
-        "emptyWindows": [
-            {
-                "backupFolder": "1761970205057"
-            }
-        ]
+        "emptyWindows": []
     },
     "windowControlHeight": 50,
     "profileAssociations": {
@@ -48,7 +44,7 @@
             "titleBarHeight": 35,
             "activityBarWidth": 0,
             "sideBarWidth": 170,
-            "auxiliarySideBarWidth": 253,
+            "auxiliarySideBarWidth": 170,
             "statusBarHeight": 22,
             "windowBorder": false
         }
@@ -59,9 +55,9 @@
             "backupPath": "/home/prtk/.config/Cursor/Backups/44159f525243be49524211920339e0c0",
             "uiState": {
                 "mode": 1,
-                "x": 972,
+                "x": 22,
                 "y": 52,
-                "width": 926,
+                "width": 1876,
                 "height": 1006,
                 "zoomLevel": 2
             }
@@ -71,7 +67,7 @@
     "windowSplashWorkspaceOverride": {
         "layoutInfo": {
             "auxiliarySideBarWidth": [
-                253,
+                170,
                 [
                     "fcc0a444355e6cec76f7072c5eabe620",
                     "d80a58dcd47fefc67f19b39af30d2a43"

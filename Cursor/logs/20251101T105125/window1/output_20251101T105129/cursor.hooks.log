@@ -1,0 +1,10 @@
+[2025-11-01T05:21:29.404Z] Initializing Cursor Hooks Service...
+[2025-11-01T05:21:29.405Z] User config path: /home/prtk/.cursor/hooks.json
+[2025-11-01T05:21:29.405Z] Project config path: /home/prtk/.config/waybar/.cursor/hooks.json
+[2025-11-01T05:21:29.405Z] Enterprise config path: file:///etc/cursor/hooks.json
+[2025-11-01T05:21:29.405Z] Reloading hooks configuration...
+[2025-11-01T05:21:29.411Z] No enterprise hooks configuration found
+[2025-11-01T05:21:29.417Z] No user hooks configuration found
+[2025-11-01T05:21:29.417Z] Project hooks disabled (experiment flag not enabled)
+[2025-11-01T05:21:29.417Z] Refreshing team hooks...
+[2025-11-01T05:21:29.418Z] Cursor Hooks Service initialized successfully
