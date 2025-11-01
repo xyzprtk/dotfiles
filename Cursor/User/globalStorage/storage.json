@@ -1,0 +1,82 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.macMachineId": "d7be175863d818c08d70c2298abd71dbecdcdfbd448a8f71f56861d3581705e7",
+    "telemetry.machineId": "02bc138ef345fe49092a536c215bce013767f02ed7224e2805d1ae2233069a3b",
+    "telemetry.devDeviceId": "7f3acc43-8822-4d26-84ba-a707580558cc",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/prtk/.config/waybar"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1761970205057"
+            }
+        ]
+    },
+    "windowControlHeight": 50,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/prtk/.config/hypr": "__default__profile__",
+            "file:///home/prtk/.config/waybar": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e2127",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#7b88a1",
+            "background": "#1e2127",
+            "editorBackground": "#1e2127",
+            "titleBarBackground": "#191c22",
+            "titleBarBorder": "rgba(255, 255, 255, 0.05)",
+            "activityBarBackground": "#191c22",
+            "sideBarBackground": "#191c22",
+            "sideBarBorder": "rgba(255, 255, 255, 0.05)",
+            "statusBarBackground": "#191c22",
+            "statusBarBorder": "rgba(255, 255, 255, 0.05)",
+            "statusBarNoFolderBackground": "#191c22"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 0,
+            "sideBarWidth": 170,
+            "auxiliarySideBarWidth": 253,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/prtk/.config/waybar",
+            "backupPath": "/home/prtk/.config/Cursor/Backups/44159f525243be49524211920339e0c0",
+            "uiState": {
+                "mode": 1,
+                "x": 972,
+                "y": 52,
+                "width": 926,
+                "height": 1006,
+                "zoomLevel": 2
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "auxiliarySideBarWidth": [
+                253,
+                [
+                    "fcc0a444355e6cec76f7072c5eabe620",
+                    "d80a58dcd47fefc67f19b39af30d2a43"
+                ]
+            ]
+        }
+    }
+}

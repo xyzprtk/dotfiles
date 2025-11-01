@@ -1,0 +1,2 @@
+2025-10-29 23:08:16.660 [error] #33: https://api2.cursor.sh/extensions-control - error GET net::ERR_INTERNET_DISCONNECTED
+2025-10-29 23:23:22.659 [error] #36: https://api2.cursor.sh/extensions-control - error GET Request timeout after 3000ms

@@ -1,0 +1,11 @@
+[2025-10-31T15:46:53.636Z] [INFO] [general] Activating Cursor Browser Extension MCP Provider
+[2025-10-31T15:46:53.637Z] [INFO] [general] Initializing Playwright Browser Tools
+[2025-10-31T15:46:53.647Z] [INFO] [general] Using configuration: {"connectionType":"default"}
+[2025-10-31T15:46:53.647Z] [INFO] [general] Playwright Browser Tools initialized successfully
+[2025-10-31T15:46:53.647Z] [INFO] [general] Cursor Browser Extension MCP Provider initialized successfully
+[2025-10-31T15:46:53.647Z] [INFO] [general] Cursor Browser Extension MCP Provider registered successfully
+[2025-10-31T15:46:53.850Z] [INFO] [general] Listing available browser tools
+[2025-10-31T15:46:53.854Z] [INFO] [general] Listing available browser tools
+[2025-10-31T15:46:54.364Z] [WARN] [general] No Chrome executable found on linux. Checked paths: /usr/bin/google-chrome, /usr/bin/google-chrome-stable, /usr/bin/google-chrome-beta, /usr/bin/google-chrome-unstable, /usr/bin/chromium-browser, /usr/bin/chromium, /snap/bin/chromium, /var/lib/snapd/snap/bin/chromium, /usr/local/bin/chrome, /usr/local/bin/google-chrome
+[2025-10-31T15:46:54.364Z] [WARN] [general] No Chrome executable found on linux. Checked paths: /usr/bin/google-chrome, /usr/bin/google-chrome-stable, /usr/bin/google-chrome-beta, /usr/bin/google-chrome-unstable, /usr/bin/chromium-browser, /usr/bin/chromium, /snap/bin/chromium, /var/lib/snapd/snap/bin/chromium, /usr/local/bin/chrome, /usr/local/bin/google-chrome
+[2025-10-31T15:46:54.364Z] [WARN] [general] No Chrome executable found on linux. Checked paths: /usr/bin/google-chrome, /usr/bin/google-chrome-stable, /usr/bin/google-chrome-beta, /usr/bin/google-chrome-unstable, /usr/bin/chromium-browser, /usr/bin/chromium, /snap/bin/chromium, /var/lib/snapd/snap/bin/chromium, /usr/local/bin/chrome, /usr/local/bin/google-chrome

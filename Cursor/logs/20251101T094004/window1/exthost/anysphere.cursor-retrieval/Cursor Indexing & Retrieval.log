@@ -1,0 +1,10 @@
+2025-11-01 09:40:12.563 [error] Error getting repo info: Failed to execute git
+2025-11-01 09:40:12.563 [error] Error: Failed to execute git
+	at t.Git._exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:34772)
+	at async t.Git.exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:33895)
+	at async t.GitProvider.executeGitCommandStable (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1335881)
+	at async t.GitProvider.getRepoInfo (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1311833)
+2025-11-01 09:40:12.563 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-11-01 09:40:12.563 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-11-01 09:40:12.767 [error] NoWorkspaceUriError
+2025-11-01 09:50:08.696 [error] Error getting user commits: Failed to execute git

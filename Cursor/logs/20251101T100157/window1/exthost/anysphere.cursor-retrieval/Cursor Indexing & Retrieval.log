@@ -1,0 +1,65 @@
+2025-11-01 10:02:05.304 [error] Error getting repo info: Failed to execute git
+2025-11-01 10:02:05.304 [error] Error: Failed to execute git
+	at t.Git._exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:34772)
+	at async t.Git.exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:33895)
+	at async t.GitProvider.executeGitCommandStable (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1335881)
+	at async t.GitProvider.getRepoInfo (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1311833)
+2025-11-01 10:02:05.305 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-11-01 10:02:05.305 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-11-01 10:02:05.486 [error] NoWorkspaceUriError
+2025-11-01 10:02:15.197 [error] Error getting repo info: Failed to execute git
+2025-11-01 10:02:15.197 [error] Error: Failed to execute git
+	at t.Git._exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:34772)
+	at async t.Git.exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:33895)
+	at async t.GitProvider.executeGitCommandStable (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1335881)
+	at async t.GitProvider.getRepoInfo (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1311833)
+2025-11-01 10:02:15.197 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-11-01 10:02:15.197 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-11-01 10:02:15.197 [info] Making keys for a new index
+2025-11-01 10:02:15.204 [info] Using the default key from the server for a new index
+2025-11-01 10:02:15.204 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-11-01 10:02:15.424 [info] Using existing keys for an index
+2025-11-01 10:02:15.424 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-11-01 10:02:15.547 [info] Starting RepoIndexWatcher for repo: 8d0300af-3050-438b-9903-f72b2580e601, owner: google-oauth2|user_01JFYB6R2HGW3F7Z2VBNYJZXW8
+2025-11-01 10:02:15.547 [info] Doing a startup handshake.
+2025-11-01 10:02:15.805 [info] Finished computing merkle tree in 4.962093000000095 ms.
+2025-11-01 10:02:15.806 [info] Doing the initial handshake with hash: 840217f4a43c56e2e1da8ed8c4f7fa39107694a80b255ebc1861b624d5aff3bf
+2025-11-01 10:02:15.814 [info] Computed simhash vector of length: 256
+2025-11-01 10:02:15.814 [info] Path key hash: 81ff26319b0bb559d3d91761d983f412e81481b9a9734d1cedbdf9c4986a8941
+2025-11-01 10:02:15.814 [info] Handshake start
+2025-11-01 10:02:15.820 [warning] Error reading high level folder description. Ignoring. Error: ENOENT: no such file or directory, open '/home/prtk/.config/Cursor/User/workspaceStorage/d80a58dcd47fefc67f19b39af30d2a43/anysphere.cursor-retrieval/high_level_folder_description.txt'
+2025-11-01 10:02:15.824 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN repo42.cursor.sh
+2025-11-01 10:02:15.825 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-11-01 10:02:15.825 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-11-01 10:02:15.837 [warning] Error computing full high level folder description. Ignoring. [unavailable] getaddrinfo EAI_AGAIN repo42.cursor.sh
+2025-11-01 10:02:17.826 [warning] Retrying handshake with timeout 4000. Error:  [unavailable] getaddrinfo EAI_AGAIN repo42.cursor.sh
+2025-11-01 10:02:17.826 [info] Handshake start
+2025-11-01 10:02:21.832 [warning] Retrying handshake with timeout 8000. Error:  [unavailable] getaddrinfo EAI_AGAIN repo42.cursor.sh
+2025-11-01 10:02:21.832 [info] Handshake start
+2025-11-01 10:02:21.837 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN repo42.cursor.sh
+2025-11-01 10:02:21.837 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-11-01 10:02:21.837 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-11-01 10:02:29.838 [warning] Retrying handshake with timeout 16000. Error:  [unavailable] getaddrinfo EAI_AGAIN repo42.cursor.sh
+2025-11-01 10:02:29.838 [info] Handshake start
+2025-11-01 10:02:29.843 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN repo42.cursor.sh
+2025-11-01 10:02:29.844 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-11-01 10:02:29.844 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-11-01 10:02:45.845 [warning] Retrying handshake with timeout 32000. Error:  [unavailable] getaddrinfo EAI_AGAIN repo42.cursor.sh
+2025-11-01 10:02:45.845 [info] Handshake start
+2025-11-01 10:02:45.850 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN repo42.cursor.sh
+2025-11-01 10:02:45.850 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-11-01 10:02:45.850 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-11-01 10:03:17.851 [warning] Retrying handshake with timeout 64000. Error:  [unavailable] getaddrinfo EAI_AGAIN repo42.cursor.sh
+2025-11-01 10:03:17.851 [info] Handshake start
+2025-11-01 10:03:17.856 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN repo42.cursor.sh
+2025-11-01 10:03:17.857 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-11-01 10:03:17.857 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-11-01 10:04:21.857 [warning] Retrying handshake with timeout 128000. Error:  [unavailable] getaddrinfo EAI_AGAIN repo42.cursor.sh
+2025-11-01 10:04:21.858 [error] Handshake failed:
+2025-11-01 10:04:21.858 [error] Error: timeout in handshake with retry
+	at t.RepoClientMultiplexer.tryHandshake (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1898498)
+	at async t.RepoClientMultiplexer.handshakeWithRetry (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1893399)
+	at async b.getServerStatus (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:195597)
+	at async b.startIndexingRepository (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:197285)
+2025-11-01 10:04:21.858 [error] Handshake failed.
+2025-11-01 10:04:21.858 [info] Indexing job successfully done or aborted.

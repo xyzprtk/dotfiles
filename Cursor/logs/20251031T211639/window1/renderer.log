@@ -1,0 +1,40 @@
+2025-10-31 21:16:41.564 [warning] Missing property "rpcFileLoggerFolder" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-10-31 21:16:41.570 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-31 21:16:41.570 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-copilot-data-analysis' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-31 21:16:41.570 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-31 21:16:41.571 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-31 21:16:41.571 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-31 21:16:41.571 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-31 21:16:41.571 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-31 21:16:41.572 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-31 21:16:41.572 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-31 21:16:42.167 [info] Started local extension host with pid 72804.
+2025-10-31 21:16:43.445 [info] [LocalProcessExtensionHost] getDefaultShell result: /usr/bin/zsh
+2025-10-31 21:16:43.460 [info] [LocalProcessExtensionHost] Final userTerminalHint: /usr/bin/zsh
+2025-10-31 21:16:44.841 [info] [Debug] Registered command palette action: debug.getApplicationProperty
+2025-10-31 21:16:44.842 [info] [Debug] Registered command palette action: debug.logComposer
+2025-10-31 21:16:44.842 [info] [Debug] Registered command palette action: debug.getContextKeyValue
+2025-10-31 21:16:44.859 [info] [Cursor Proclist Polling] Feature disabled by config
+2025-10-31 21:16:44.960 [info] [ShellExec] Created session 34d80a9a-fc4a-4493-b057-44aab43759a6 on LocalProcess host
+2025-10-31 21:16:46.333 [info] [perf] Render performance baseline is 20ms
+2025-10-31 21:16:50.736 [warning] Missing property "rpcFileLoggerFolder" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-10-31 21:16:50.742 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-31 21:16:50.742 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-copilot-data-analysis' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-31 21:16:50.743 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-31 21:16:50.743 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-31 21:16:50.743 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-31 21:16:50.743 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-31 21:16:50.743 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-31 21:16:50.743 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-31 21:16:50.743 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-31 21:16:51.312 [info] Started local extension host with pid 75517.
+2025-10-31 21:16:52.480 [info] [LocalProcessExtensionHost] getDefaultShell result: /usr/bin/zsh
+2025-10-31 21:16:52.481 [info] [LocalProcessExtensionHost] Final userTerminalHint: /usr/bin/zsh
+2025-10-31 21:16:52.532 [warning] No search provider registered for scheme: file, waiting
+2025-10-31 21:16:53.617 [info] [Debug] Registered command palette action: debug.logComposer
+2025-10-31 21:16:53.617 [info] [Debug] Registered command palette action: debug.getContextKeyValue
+2025-10-31 21:16:53.617 [info] [Debug] Registered command palette action: debug.getApplicationProperty
+2025-10-31 21:16:53.751 [info] [Cursor Proclist Polling] Feature disabled by config
+2025-10-31 21:16:53.791 [info] [ShellExec] Created session 2f6a370b-fee6-4f69-9312-d0228757131b on LocalProcess host
+2025-10-31 21:16:53.999 [info] [perf] Render performance baseline is 27ms
+2025-10-31 21:17:09.703 [info] [Extensions]: Checking for updates. Reason: Product update

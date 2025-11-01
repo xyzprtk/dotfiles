@@ -1,0 +1,36 @@
+2025-10-31 20:57:21.881 [info] [main] Log level: Info
+2025-10-31 20:57:21.881 [info] [main] Validating found git in: "git"
+2025-10-31 20:57:21.881 [info] [main] Using git "2.51.1" from "git"
+2025-10-31 20:57:21.881 [info] [Model][doInitialScan] Initial repository scan started
+2025-10-31 20:57:21.881 [info] > git rev-parse --show-toplevel [250ms]
+2025-10-31 20:57:21.881 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-10-31 20:57:21.881 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-10-31 20:57:21.881 [info] > git config --get remote.origin.url [5ms]
+2025-10-31 20:57:22.001 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [2ms]
+2025-10-31 20:57:22.001 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-10-31 20:57:22.046 [info] > git remote get-url --push origin [25ms]
+2025-10-31 20:57:22.046 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-10-31 20:57:22.047 [info] > git rev-parse --verify origin/main [4ms]
+2025-10-31 20:57:22.047 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-10-31 20:57:22.061 [info] > git rev-parse --verify origin/master [3ms]
+2025-10-31 20:57:22.061 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-10-31 20:57:22.074 [info] > git rev-parse --verify origin/develop [1ms]
+2025-10-31 20:57:22.074 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-10-31 20:57:22.091 [info] > git branch -r [4ms]
+2025-10-31 20:57:22.091 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-10-31 20:57:22.111 [info] > git config --get init.defaultBranch [9ms]
+2025-10-31 20:57:31.542 [info] > git config --global user.name [1ms]
+2025-10-31 20:57:31.555 [info] > git config --global user.email [1ms]
+2025-10-31 20:57:31.555 [info] [main] Stored git author name in global state:  <>
+2025-10-31 21:07:20.023 [info] > git config user.email [1ms]
+2025-10-31 21:07:20.036 [info] > git config user.name [1ms]
+2025-10-31 21:07:20.048 [info] > git log --pretty=format:%H<|ENT|><|RY|>%s<|COM|><|MIT|> -n 10 --author prtk [1ms]
+2025-10-31 21:07:20.048 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

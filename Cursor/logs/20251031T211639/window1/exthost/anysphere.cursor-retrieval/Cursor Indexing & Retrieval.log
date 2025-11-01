@@ -1,0 +1,46 @@
+2025-10-31 21:16:45.544 [error] Error getting repo info: Failed to execute git
+2025-10-31 21:16:45.544 [error] Error: Failed to execute git
+	at t.Git._exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:34772)
+	at async t.Git.exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:33895)
+	at async t.GitProvider.executeGitCommandStable (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1335881)
+	at async t.GitProvider.getRepoInfo (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1311833)
+2025-10-31 21:16:45.544 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-10-31 21:16:45.544 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-10-31 21:16:45.789 [error] NoWorkspaceUriError
+2025-10-31 21:16:54.365 [error] Error getting repo info: Failed to execute git
+2025-10-31 21:16:54.365 [error] Error: Failed to execute git
+	at t.Git._exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:34772)
+	at async t.Git.exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:33895)
+	at async t.GitProvider.executeGitCommandStable (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1335881)
+	at async t.GitProvider.getRepoInfo (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1311833)
+2025-10-31 21:16:54.365 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-10-31 21:16:54.365 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-10-31 21:16:54.380 [info] Making keys for a new index
+2025-10-31 21:16:54.384 [info] Using the default key from the server for a new index
+2025-10-31 21:16:54.384 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-10-31 21:16:54.771 [info] Using existing keys for an index
+2025-10-31 21:16:54.771 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-10-31 21:16:54.794 [info] Starting RepoIndexWatcher for repo: 944e8677-2101-49ec-9f46-ccf30421714e, owner: google-oauth2|user_01JFYB6R2HGW3F7Z2VBNYJZXW8
+2025-10-31 21:16:54.794 [info] Doing a startup handshake.
+2025-10-31 21:16:54.834 [info] Finished computing merkle tree in 3.9350420000000668 ms.
+2025-10-31 21:16:54.835 [info] Doing the initial handshake with hash: e51099526ceb655cc699b10e42ecc36c9c9509227a861fbbd76ca9c3771a472c
+2025-10-31 21:16:54.840 [info] Computed simhash vector of length: 256
+2025-10-31 21:16:54.840 [info] Path key hash: 81ff26319b0bb559d3d91761d983f412e81481b9a9734d1cedbdf9c4986a8941
+2025-10-31 21:16:54.840 [info] Handshake start
+2025-10-31 21:16:54.843 [warning] Error reading high level folder description. Ignoring. Error: ENOENT: no such file or directory, open '/home/prtk/.config/Cursor/User/workspaceStorage/fcc0a444355e6cec76f7072c5eabe620/anysphere.cursor-retrieval/high_level_folder_description.txt'
+2025-10-31 21:16:58.844 [warning] Retrying handshake with timeout 4000. Error:  [deadline_exceeded] the operation timed out
+2025-10-31 21:16:58.844 [info] Handshake start
+2025-10-31 21:16:59.517 [info] Handshake timing: 673.7959060000003, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"2af5abac-c74e-4c59-808c-d6598063f0dd","status":"STATUS_EMPTY","copyTaskHandle":""}]}
+2025-10-31 21:16:59.517 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"2af5abac-c74e-4c59-808c-d6598063f0dd","status":"STATUS_EMPTY","copyTaskHandle":""}]}
+2025-10-31 21:16:59.517 [info] Starting fast remote sync.
+2025-10-31 21:16:59.518 [info] Total num embeddable files: 1
+2025-10-31 21:16:59.519 [info] Root hash: e51099526ceb655cc699b10e42ecc36c9c9509227a861fbbd76ca9c3771a472c
+2025-10-31 21:16:59.519 [info] Starting repository upload from scratch.
+2025-10-31 21:16:59.520 [info] Uploading 1 files.
+2025-10-31 21:16:59.521 [info] Total number of files to embed: 1
+2025-10-31 21:16:59.521 [info] Not aborted
+2025-10-31 21:16:59.521 [info] Starting while loop.
+2025-10-31 21:17:00.438 [info] Completed job successfully: 2af5abac-c74e-4c59-808c-d6598063f0dd ./hyprland.conf
+2025-10-31 21:17:00.839 [info] Finishing sync (hasUpdates: true, isErr: false)
+2025-10-31 21:17:01.356 [info] Finished indexing repository.
+2025-10-31 21:17:01.356 [info] Indexing job successfully done or aborted.

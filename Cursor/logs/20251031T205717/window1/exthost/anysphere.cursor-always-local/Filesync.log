@@ -1,0 +1,20 @@
+2025-10-31 20:57:21.877 [error] Failed to check if file sync is enabled for user {}
+2025-10-31 20:57:21.877 [error] Failed to fetch fsConfig File sync is disabled
+2025-10-31 20:57:21.877 [error] Failed to fetch fsConfig File sync is disabled
+2025-10-31 20:57:21.877 [info] [registerEventListeners] Registering event listeners
+2025-10-31 20:57:23.227 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-10-31 20:57:23.540 [info] Fetched fsConfig in 311.9655120000007ms
+2025-10-31 20:57:23.540 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-10-31 20:57:26.812 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-10-31 20:57:27.582 [info] Starting sync of visible tabs
+2025-10-31 20:57:27.632 [info] Fetched fsConfig in 819.2291689999993ms
+2025-10-31 20:57:27.632 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-10-31 20:57:27.632 [info] File sync enabled status: true
+2025-10-31 20:57:27.632 [info] Starting sync of visible tabs
+2025-10-31 20:57:27.867 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-10-31 20:57:27.894 [info] Uploaded file /home/prtk/.config/hypr/hyprland.conf modelVersion=1 in 304.6825829999998ms
+2025-10-31 20:57:27.895 [info] Synced all visible tabs in 313.54271999999946ms
+2025-10-31 20:57:27.916 [info] Uploaded file /home/prtk/.config/hypr/hyprland.conf modelVersion=1 in 275.882896000001ms
+2025-10-31 20:57:27.916 [info] Synced all visible tabs in 284.081599000001ms
+2025-10-31 20:57:28.097 [info] Fetched fsConfig in 229.6223829999999ms
+2025-10-31 20:57:28.097 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}

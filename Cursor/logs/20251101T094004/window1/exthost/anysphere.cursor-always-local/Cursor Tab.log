@@ -1,0 +1,82 @@
+2025-11-01 09:40:12.429 [info] CURSOR LOG: Finished creating provider!
+2025-11-01 09:40:12.754 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:40:26.493 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:40:46.577 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:40:53.768 [info] CURSOR LOG: requestId 1ad98f2a-d0a9-49c8-a3f9-ed1fb5d876a5  
+2025-11-01 09:40:55.629 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:40:59.036 [info] CURSOR LOG: requestId 49645e78-37b2-41c7-b3b3-96af05976064  
+2025-11-01 09:41:02.465 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 09:41:02.465 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:41:02.467 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 09:41:07.652 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:41:16.456 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:41:16.466 [info] CURSOR LOG: requestId 38412688-20b7-4811-939a-be38fe00b007  
+2025-11-01 09:41:19.370 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 09:41:19.424 [info] CURSOR LOG: requestId 008c2848-5118-4ba5-a11a-13db75fc6115  
+2025-11-01 09:41:19.508 [info] CURSOR LOG: requestId 785bd5c1-5633-448f-9cd2-60b11ef9bcbc  
+2025-11-01 09:41:26.361 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 09:41:26.362 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 09:41:26.364 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:41:31.684 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:41:51.765 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:42:00.818 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:42:09.267 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:42:36.866 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:42:56.911 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:43:05.964 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:43:17.989 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:43:42.014 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:44:02.063 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:44:09.266 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:44:23.137 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:44:47.161 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:45:06.174 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:45:16.187 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:45:28.106 [info] CURSOR LOG: requestId f2f3664f-fda2-43a1-b42c-b7832ea46116  
+2025-11-01 09:45:28.110 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:45:28.965 [info] CURSOR LOG: requestId f0df0349-9e94-4c82-9367-100dd77cf864  
+2025-11-01 09:45:38.115 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:45:38.117 [info] CURSOR LOG: Error in streaming cpp (connect error) [unknown] Network disconnected
+2025-11-01 09:45:38.968 [info] CURSOR LOG: Error in streaming cpp (connect error) [unknown] Network disconnected
+2025-11-01 09:45:42.786 [info] CURSOR LOG: requestId 74c772c6-6b7e-4332-b229-7977365fa665  
+2025-11-01 09:45:44.910 [info] CURSOR LOG: requestId 1292e4e1-c55f-4c3b-84ef-52a1e89a4d77  
+2025-11-01 09:45:46.783 [info] CURSOR LOG: requestId d487c418-a403-4d57-be82-6aa0bbdac276  
+2025-11-01 09:45:51.840 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:45:52.791 [info] CURSOR LOG: Error in streaming cpp (connect error) [unknown] Network disconnected
+2025-11-01 09:45:53.211 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 09:45:53.211 [info] CURSOR LOG: Error in streaming cpp (connect error) [canceled] This operation was aborted
+2025-11-01 09:46:06.224 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:46:26.273 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:46:35.328 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:46:47.356 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:47:09.265 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:47:27.413 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:47:47.465 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:47:56.515 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:48:08.541 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:48:32.565 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:48:52.612 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:49:01.668 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:49:09.267 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:49:37.716 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:49:57.757 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:50:06.190 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:50:11.287 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:50:18.859 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:50:31.359 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:50:42.895 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:51:02.947 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:51:09.267 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:51:21.672 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:51:34.801 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:51:40.433 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:51:48.049 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:51:56.457 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:52:09.268 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:52:29.310 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:52:38.357 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:52:50.380 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:53:09.267 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:53:14.404 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:53:34.448 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-11-01 09:53:43.496 [error] Error Checking Connection: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh

@@ -1,0 +1,21 @@
+
+[window]
+padding.x = 10
+padding.y = 10
+
+decorations = "Buttonless"
+
+opacity = 0.75
+blur = true 
+
+option_as_alt = "Both"
+
+[font]
+normal.family = "JetBrains Mono"
+
+size = 18
+
+[general]
+import = [
+  "~/.config/alacritty/themes/themes/nord.toml"
+]

@@ -1,0 +1,49 @@
+2025-10-31 21:16:43.545 [info] Extension host with pid 72804 started
+2025-10-31 21:16:43.546 [info] [ExtHostShellExec] Initializing terminal executor with userTerminalHint: /usr/bin/zsh
+2025-10-31 21:16:43.584 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-31 21:16:43.608 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2025-10-31 21:16:43.925 [info] ExtensionService#_doActivateExtension cursor.cursor-browser-automation, startup: false, activationEvent: 'onStartupFinished'
+2025-10-31 21:16:43.985 [info] ExtensionService#_doActivateExtension anysphere.cursor-browser-connect, startup: false, activationEvent: 'onStartupFinished'
+2025-10-31 21:16:44.020 [info] ExtensionService#_doActivateExtension anysphere.cursor-browser-extension, startup: false, activationEvent: 'onStartupFinished'
+2025-10-31 21:16:44.254 [info] ExtensionService#_doActivateExtension anysphere.cursor-deeplink, startup: false, activationEvent: 'onStartupFinished'
+2025-10-31 21:16:44.312 [info] ExtensionService#_doActivateExtension anysphere.cursor-mcp, startup: false, activationEvent: 'onStartupFinished'
+2025-10-31 21:16:44.340 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onStartupFinished', root cause: anysphere.cursor-retrieval
+2025-10-31 21:16:44.342 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2025-10-31 21:16:44.416 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-31 21:16:44.418 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-31 21:16:44.438 [info] ExtensionService#_doActivateExtension anysphere.cursor-agent-exec, startup: false, activationEvent: '*'
+2025-10-31 21:16:44.715 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'onStartupFinished', root cause: anysphere.cursor-retrieval
+2025-10-31 21:16:44.779 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-10-31 21:16:45.037 [info] Eager extensions activated
+2025-10-31 21:16:45.090 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2025-10-31 21:16:49.940 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-31 21:16:49.955 [error] Error: Channel has been closed
+	at r (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:3271)
+	at Object.appendLine (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:3410)
+	at m (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242320)
+	at t.deactivate (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242179)
+	at /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2760923
+	at t.deactivate (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2760981)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async Promise.all (index 1)
+	at async $3t._deactivateAll (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:12393)
+2025-10-31 21:16:49.956 [info] Extension host with pid 72804 exiting with code 0
+2025-10-31 21:16:52.590 [info] Extension host with pid 75517 started
+2025-10-31 21:16:52.590 [info] [ExtHostShellExec] Initializing terminal executor with userTerminalHint: /usr/bin/zsh
+2025-10-31 21:16:52.590 [info] Skipping acquiring lock for /home/prtk/.config/Cursor/User/workspaceStorage/fcc0a444355e6cec76f7072c5eabe620.
+2025-10-31 21:16:52.599 [info] ExtensionService#_doActivateExtension cursor.cursor-browser-automation, startup: false, activationEvent: 'onCommand:cursor.browserAutomation.getStatus'
+2025-10-31 21:16:52.655 [info] ExtensionService#_doActivateExtension anysphere.cursor-agent-exec, startup: false, activationEvent: '*'
+2025-10-31 21:16:52.870 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2025-10-31 21:16:52.872 [info] ExtensionService#_doActivateExtension anysphere.cursor-browser-extension, startup: false, activationEvent: 'onCommand:cursor-browser-extension.status'
+2025-10-31 21:16:53.101 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2025-10-31 21:16:53.343 [info] ExtensionService#_doActivateExtension anysphere.cursor-browser-connect, startup: false, activationEvent: 'onStartupFinished'
+2025-10-31 21:16:53.377 [info] ExtensionService#_doActivateExtension anysphere.cursor-deeplink, startup: false, activationEvent: 'onStartupFinished'
+2025-10-31 21:16:53.446 [info] ExtensionService#_doActivateExtension anysphere.cursor-mcp, startup: false, activationEvent: 'onStartupFinished'
+2025-10-31 21:16:53.478 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2025-10-31 21:16:53.582 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-31 21:16:53.585 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-31 21:16:53.694 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2025-10-31 21:16:53.748 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-10-31 21:16:53.793 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-31 21:16:53.979 [info] Eager extensions activated
+2025-10-31 21:16:54.022 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'

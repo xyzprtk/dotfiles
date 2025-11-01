@@ -1,0 +1,7 @@
+2025-10-31 22:01:57.550 [error] Failed to check if file sync is enabled for user {}
+2025-10-31 22:01:57.550 [error] Failed to fetch fsConfig File sync is disabled
+2025-10-31 22:01:57.550 [error] Failed to fetch fsConfig File sync is disabled
+2025-10-31 22:01:57.550 [info] [registerEventListeners] Registering event listeners
+2025-10-31 22:02:10.734 [error] Failed to check if file sync is enabled for user {"name":"ConnectError","rawMessage":"Network disconnected","code":2,"metadata":{},"details":[],"cause":{}}
+2025-10-31 22:02:10.734 [error] Failed to fetch fsConfig File sync is disabled
+2025-10-31 22:02:10.735 [error] Failed to fetch fsConfig File sync is disabled

@@ -1,0 +1,6 @@
+[2025-10-31T15:46:53.611Z] [INFO] [general] Cursor Browser Automation extension activated
+[2025-10-31T15:46:54.369Z] [INFO] [general] Starting MCP server
+[2025-10-31T15:46:54.370Z] [INFO] [general] Generated auth token for MCP requests
+[2025-10-31T15:46:54.372Z] [INFO] [general] MCP server started on port 41573
+[2025-10-31T15:46:54.372Z] [INFO] [general] Auth token: a31848cf25c2ea95...
+[2025-10-31T15:46:54.373Z] [INFO] [general] MCP server started on port 41573 (reused: false)

@@ -1,0 +1,8 @@
+[2025-10-31T15:46:44.650Z] [INFO] [general] Cursor Browser Automation extension activated
+[2025-10-31T15:46:45.524Z] [INFO] [general] Starting MCP server
+[2025-10-31T15:46:45.524Z] [INFO] [general] Generated auth token for MCP requests
+[2025-10-31T15:46:45.527Z] [INFO] [general] MCP server started on port 45571
+[2025-10-31T15:46:45.527Z] [INFO] [general] Auth token: ca48e5ba94a0ee43...
+[2025-10-31T15:46:45.527Z] [INFO] [general] MCP server started on port 45571 (reused: false)
+[2025-10-31T15:46:49.944Z] [INFO] [general] MCP server stopped
+[2025-10-31T15:46:49.944Z] [INFO] [general] Cleared all authorized tabs and connections

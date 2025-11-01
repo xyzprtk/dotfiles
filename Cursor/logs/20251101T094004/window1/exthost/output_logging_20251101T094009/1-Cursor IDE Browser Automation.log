@@ -1,0 +1,6 @@
+[2025-11-01T04:10:11.339Z] [INFO] [general] Cursor Browser Automation extension activated
+[2025-11-01T04:10:12.538Z] [INFO] [general] Starting MCP server
+[2025-11-01T04:10:12.539Z] [INFO] [general] Generated auth token for MCP requests
+[2025-11-01T04:10:12.544Z] [INFO] [general] MCP server started on port 42349
+[2025-11-01T04:10:12.544Z] [INFO] [general] Auth token: cbbd55b73edd37fd...
+[2025-11-01T04:10:12.544Z] [INFO] [general] MCP server started on port 42349 (reused: false)

@@ -1,0 +1,82 @@
+2025-10-31 22:01:53.737 [warning] Missing property "rpcFileLoggerFolder" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-10-31 22:01:53.741 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-31 22:01:53.742 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-copilot-data-analysis' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-31 22:01:53.742 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-31 22:01:53.742 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-31 22:01:53.743 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-31 22:01:53.743 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-31 22:01:53.744 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-31 22:01:53.744 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-31 22:01:53.744 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-31 22:01:54.302 [info] Started local extension host with pid 86719.
+2025-10-31 22:01:55.421 [warning] No search provider registered for scheme: file, waiting
+2025-10-31 22:01:55.429 [info] [LocalProcessExtensionHost] getDefaultShell result: /usr/bin/zsh
+2025-10-31 22:01:55.431 [info] [LocalProcessExtensionHost] Final userTerminalHint: /usr/bin/zsh
+2025-10-31 22:01:56.858 [info] [Debug] Registered command palette action: debug.getApplicationProperty
+2025-10-31 22:01:56.859 [info] [Debug] Registered command palette action: debug.logComposer
+2025-10-31 22:01:56.859 [info] [Debug] Registered command palette action: debug.getContextKeyValue
+2025-10-31 22:01:56.921 [info] [ShellExec] Created session 47d8dd33-6997-42a5-b840-c43716aef7c8 on LocalProcess host
+2025-10-31 22:01:56.956 [info] [Cursor Proclist Polling] Feature disabled by config
+2025-10-31 22:01:57.430 [info] [perf] Render performance baseline is 20ms
+2025-10-31 22:01:57.835 [error] An unknown error occurred. Please consult the log for more details. {}
+2025-10-31 22:01:57.838 [error] Error fetching user privacy mode: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-10-31 22:01:57.839 [error] [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh: ConnectError: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7337:400502)
+    at async Object.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:587:348407)
+    at async qdo.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9773:35106)
+    at async qdo.refreshMembership (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9773:23037)
+    at async qdo.refreshAuthentication (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9773:40605) [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-10-31 22:01:57.955 [error] [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh: ConnectError: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7337:400502)
+    at async Object.availableModels (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:587:348407)
+    at async avo.keepCppModelStateUpdated (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9889:16023)
+    at async avo.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9897:1259) [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-10-31 22:01:57.959 [error] [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh: ConnectError: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7337:400502)
+    at async Object.availableDocs (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:587:348407)
+    at async Uzr.availableDocs (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7955:4894)
+    at async Object.fn (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7025:95215) [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-10-31 22:01:57.973 [error] [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh: ConnectError: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7337:400502)
+    at async Object.getDefaultModelNudgeData (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:587:348407)
+    at async Uzr.performDefaultModelRequest (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7955:7722) [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-10-31 22:01:57.976 [error] [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh: ConnectError: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7337:400502)
+    at async Object.availableDocs (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:587:348407)
+    at async Uzr.availableDocs (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7955:4894)
+    at async vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9919:70562 [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-10-31 22:01:58.056 [error] [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh: ConnectError: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7337:400502)
+    at async Object.getUserPrivacyMode (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:587:348407)
+    at async qdo.fetchUserPrivacyMode (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9773:11636)
+    at async qdo.refreshPrivacyMode (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9773:11295) [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-10-31 22:01:58.067 [error] [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh: ConnectError: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7337:400502)
+    at async Object.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:587:348407)
+    at async qdo.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9773:35106)
+    at async qdo.refreshMembership (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9773:23037) [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh
+2025-10-31 22:01:58.641 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}
+2025-10-31 22:02:23.903 [info] [Extensions]: Checking for updates. Reason: Product update
+2025-10-31 22:20:11.507 [error] [unknown] Network disconnected: ConnectError: [unknown] Network disconnected
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7337:400502)
+    at async Object.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:587:348407)
+    at async qdo.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9773:35106)
+    at async qdo.refreshMembership (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9773:23037) [unknown] Network disconnected
+2025-10-31 22:21:11.506 [error] [unknown] Network disconnected: ConnectError: [unknown] Network disconnected
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7337:400502)
+    at async Object.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:587:348407)
+    at async qdo.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9773:35106)
+    at async qdo.refreshMembership (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9773:23037) [unknown] Network disconnected
+2025-10-31 22:22:05.500 [error] [unknown] Network disconnected: ConnectError: [unknown] Network disconnected
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7337:400502)
+    at async Object.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:587:348407)
+    at async qdo.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9773:35106)
+    at async qdo.refreshMembership (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:9773:23037) [unknown] Network disconnected
+2025-10-31 22:22:06.235 [error] [unknown] Network disconnected: ConnectError: [unknown] Network disconnected
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7337:400502)
+    at async Object.getDefaultModelNudgeData (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:587:348407)
+    at async Uzr.performDefaultModelRequest (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7955:7722)
+    at async Promise.all (index 1)
+    at async lQn.withSemaphore (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:1441:4800) [unknown] Network disconnected
+2025-10-31 22:22:09.795 [error] Error fetching user privacy mode: [unknown] Network disconnected
+2025-10-31 22:23:57.214 [error] An unknown error occurred. Please consult the log for more details. {"name":"ConnectError","rawMessage":"read ECONNRESET","code":10,"metadata":{},"details":[],"cause":{"errno":-104,"code":"ECONNRESET","syscall":"read"}}

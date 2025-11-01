@@ -1,0 +1,7 @@
+# This file is created by ibus-daemon, please do not modify it.
+# This file allows processes on the machine to find the
+# ibus session bus with the below address.
+# If the IBUS_ADDRESS environment variable is set, it will
+# be used rather than this file.
+IBUS_ADDRESS=unix:path=/home/prtk/.cache/ibus/dbus-sIWS9krf,guid=1217bc0d2499ad9d292050c56904b84d
+IBUS_DAEMON_PID=38990
