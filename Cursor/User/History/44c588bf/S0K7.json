@@ -1,8 +1,0 @@
-{
-    "window.commandCenter": true,
-    "workbench.colorTheme": "Monokai",
-    "editor.fontFamily": "'Geist Mono', 'monospace', monospace",
-    "editor.fontSize": 16,
-    "editor.mouseWheelZoom": true,
-    "terminal.integrated.mouseWheelZoom": true
-}

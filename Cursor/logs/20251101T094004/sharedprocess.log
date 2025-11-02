@@ -1,6 +1,0 @@
-2025-11-01 09:40:08.662 [info] Getting extensions control
-2025-11-01 09:40:08.685 [error] Error getting extensions control manifest net::ERR_INTERNET_DISCONNECTED
-2025-11-01 09:45:09.106 [info] Getting extensions control
-2025-11-01 09:45:09.110 [error] Error getting extensions control manifest net::ERR_INTERNET_DISCONNECTED
-2025-11-01 09:50:09.117 [info] Getting extensions control
-2025-11-01 09:50:09.127 [error] Error getting extensions control manifest net::ERR_INTERNET_DISCONNECTED

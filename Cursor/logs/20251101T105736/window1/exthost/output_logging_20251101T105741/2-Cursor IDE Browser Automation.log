@@ -1,8 +1,0 @@
-[2025-11-01T05:27:43.340Z] [INFO] [general] Cursor Browser Automation extension activated
-[2025-11-01T05:27:44.735Z] [INFO] [general] Starting MCP server
-[2025-11-01T05:27:44.736Z] [INFO] [general] Generated auth token for MCP requests
-[2025-11-01T05:27:44.751Z] [INFO] [general] MCP server started on port 37303
-[2025-11-01T05:27:44.751Z] [INFO] [general] Auth token: 94416bc96d6665b7...
-[2025-11-01T05:27:44.751Z] [INFO] [general] MCP server started on port 37303 (reused: false)
-[2025-11-01T10:52:15.997Z] [INFO] [general] MCP server stopped
-[2025-11-01T10:52:15.997Z] [INFO] [general] Cleared all authorized tabs and connections
