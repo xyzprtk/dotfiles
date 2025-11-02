@@ -156,6 +156,17 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/prtk/.config/.gitignore",
+                                        "path": "/home/prtk/.config/.gitignore",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/.gitignore"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/prtk/.config/hypr/hyprland.conf",
                                         "path": "/home/prtk/.config/hypr/hyprland.conf",
                                         "scheme": "file"
