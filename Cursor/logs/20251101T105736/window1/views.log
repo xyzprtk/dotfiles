@@ -12,3 +12,5 @@
 2025-11-01 10:57:41.867 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
 2025-11-01 10:57:44.635 [info] Added views:bugbot in workbench.view.scm
 2025-11-01 10:57:44.649 [info] Added views:workbench.scm.history in workbench.view.scm
+2025-11-01 16:22:15.992 [info] Removed views:bugbot from workbench.view.scm
+2025-11-01 16:22:15.996 [info] Removed views:workbench.scm.history from workbench.view.scm

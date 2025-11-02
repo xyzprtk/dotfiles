@@ -4,5 +4,7 @@
     "editor.fontFamily": "'JetBrains Mono', 'monospace', monospace",
     "editor.fontSize": 16,
     "editor.mouseWheelZoom": true,
-    "terminal.integrated.mouseWheelZoom": true
+    "terminal.integrated.mouseWheelZoom": true,
+    "cursor.composer.textSizeScale": 1.15,
+    "window.titleBarStyle": "native"
 }

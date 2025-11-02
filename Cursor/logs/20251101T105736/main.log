@@ -39,3 +39,8 @@
     at SimpleURLLoaderWrapper.callbackTrampoline (node:internal/async_hooks:130:17)
 2025-11-01 16:02:23.744 [info] update#setState idle
 2025-11-01 16:13:18.764 [warning] TracingService: dropping unsupported envelope
+2025-11-01 16:18:18.909 [warning] TracingService: dropping unsupported envelope
+2025-11-01 16:22:15.971 [warning] [BrowserViewMainService] Cannot flush storage data: browser view not created for window 1
+2025-11-01 16:22:16.011 [warning] [BrowserViewMainService] Cannot set visibility: browser view not created for window 1
+2025-11-01 16:22:16.107 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 12170]: crashed with code 15 and reason 'killed'
+2025-11-01 16:22:16.118 [info] Extension host with pid 12159 exited with code: 0, signal: unknown.

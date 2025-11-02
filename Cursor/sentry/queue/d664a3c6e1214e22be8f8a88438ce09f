@@ -1,3 +1,0 @@
-{"sent_at":"2025-11-01T04:31:56.702Z","sdk":{"name":"sentry.javascript.electron","version":"6.10.0"}}
-{"type":"session"}
-{"sid":"4fed9006f6a04a27b46b088a46dcceb0","init":true,"started":"2025-11-01T04:31:56.702Z","timestamp":"2025-11-01T04:31:56.702Z","status":"ok","errors":0,"duration":0.00019049644470214844,"attrs":{"release":"Cursor@2.0.34","environment":"cursor"}}

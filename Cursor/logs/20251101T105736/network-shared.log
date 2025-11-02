@@ -12,3 +12,4 @@
 2025-11-01 15:56:58.890 [error] #12: https://api2.cursor.sh/extensions-control - error GET net::ERR_INTERNET_DISCONNECTED
 2025-11-01 16:01:58.895 [error] #13: https://api2.cursor.sh/extensions-control - error GET net::ERR_INTERNET_DISCONNECTED
 2025-11-01 16:12:58.924 [error] #14: https://api2.cursor.sh/extensions-control - error GET net::ERR_INTERNET_DISCONNECTED
+2025-11-01 16:17:58.957 [error] #15: https://api2.cursor.sh/extensions-control - error GET net::ERR_INTERNET_DISCONNECTED

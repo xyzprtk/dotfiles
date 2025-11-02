@@ -83,3 +83,23 @@ ${c1}   \\${c0}(_____/       ${lc}${uitype}:        ${ic}${ui}${reset}
 
 EOF
 
+# --- System Colors ---
+# Adjust WIDTH to match your ASCII logo width (number of columns)
+WIDTH=40
+
+# Function to center color rows
+center() {
+  local text="$1"
+  local padding=$(( (WIDTH - ${#text}) / 2 ))
+  printf "%*s%s\n" $padding "" "$text"
+}
+
+# Build color bars
+row1=$(echo -e "\e[40m   \e[41m   \e[42m   \e[43m   \e[44m   \e[45m   \e[46m   \e[47m   \e[0m")
+row2=$(echo -e "\e[100m   \e[101m   \e[102m   \e[103m   \e[104m   \e[105m   \e[106m   \e[107m   \e[0m")
+
+echo
+center "$row1"
+center "$row2"
+echo -e "\e[0m"
+
