@@ -1,7 +1,7 @@
-#!/bin/bash
+#!/usr/bin/env bash
+# ~/.config/waybar/scripts/ws_name.sh
 
-# Get the active workspace ID
-ACTIVE_WS=$(hyprctl monitors -j | jq -r '.[0].activeWorkspace.id')
+ACTIVE_WS=$(hyprctl monitors -j | jq -r '.[0].activeWorkspace.id' 2>/dev/null || echo "0")
 
 case "$ACTIVE_WS" in
   1) ICON=""; NAME="Terminal" ;;
@@ -17,6 +17,5 @@ case "$ACTIVE_WS" in
   *) ICON="󰧞"; NAME="Unknown" ;;
 esac
 
-# Output JSON to Waybar
-echo "{\"text\": \"$ICON $NAME\", \"tooltip\": \"$NAME\"}"
-
+# Use jq to safely emit JSON
+jq -n --arg text "$ICON $NAME" --arg tooltip "$NAME" '{text:$text, tooltip:$tooltip}'

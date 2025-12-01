@@ -1,7 +1,7 @@
 {
     "layer": "top",
     "position": "top",
-    "height": 35,
+    "height": 42,
     "spacing": 4,
     "margin-top": 8,
     "margin-left": 12,
@@ -10,6 +10,14 @@
     "modules-left": ["hyprland/workspaces","custom/ws_name", "hyprland/window"],
     "modules-center": ["custom/music"],
     "modules-right": [ "clock","pulseaudio", "network", "battery", "custom/power"],
+
+
+
+  //"network-speed": {
+    //"exec": "~/.config/waybar/scripts/network-speed.py",
+    //"interval": 1,
+    //"return-type": "json"
+  //},
 
     "custom/ws_name": {
     "exec": "~/.config/waybar/scripts/ws_indicator.sh",
@@ -35,9 +43,9 @@
             "3": "󰨞",
             "4": "",
             "5": "",
-            "6": "󰎄",
+            "6": "",
             "7": "󰋩",
-            "8": "",
+            "8": "",
             "9": "󰊗",
             "10": "",
             "11": "󰓇",
